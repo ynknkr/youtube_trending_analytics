@@ -1,11 +1,11 @@
-# YouYube Trending Analytics
+# YouTube Trending Analytics
 
 ## 1. Project Overview
 
 ### Business Problem
 
 YouTube generates millions of trending video records across different countries, categories, and channels. However, raw trending data alone provides limited insights into overall performance, audience engagement and regional content preferences.
-This project transforms raw YouTube trending datasets into an analytics-ready data warehouse using Snowflake and delivers an interactive Power BI dashboard to support data-driven exploration of content trends.
+This project transforms raw YouTube trending datasets into an analytics-ready data warehouse using **Snowflake** and delivers an interactive **Power BI** dashboard to support data-driven exploration of content trends.
 
 ### Objective
 
