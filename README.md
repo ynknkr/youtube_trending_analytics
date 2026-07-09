@@ -15,7 +15,7 @@ This project transforms raw YouTube trending datasets into an analytics-ready da
 - Develop an interactive Power BI dashboard to analyse
     - Overall platform performance
     - Category Analysis
-    - Country Anlaysis
+    - Country Analysis
     - Top channels and videos
 
 ## 2. Dataset
@@ -33,7 +33,7 @@ This project transforms raw YouTube trending datasets into an analytics-ready da
 
 ![Workflow](images/youtube_workflow.png)
 
-*Figure 1. Overall Workflow used in this project*
+*Figure 1. Overall workflow used in this project*
 
 ## 4. SQL Pipeline
 
@@ -70,11 +70,11 @@ The project follows a layered SQL pipeline in Snowflake to transform raw YouTube
 
 ![Dashboard 2 - Category Analysis](images/category_analysis.png)
 
-*Figure 3. Category-level analysis comparison of views, likes and average engagement rate with country filtering*
+*Figure 3. Category-level comparison of views, likes and average engagement rate with country filtering*
 
 ![Dashboard 3 - Country Analysis](images/country_analysis.png)
 
-*Figure 4. Country-level analysis comparison of views, likes and average engagement rate across 10 countries*
+*Figure 4. Country-level comparison of views, likes and average engagement rate across 10 countries*
 
 ![Dashboard 4 - Top Rankings](images/top_rankings.png)
 
@@ -83,7 +83,7 @@ The project follows a layered SQL pipeline in Snowflake to transform raw YouTube
 ## 6. Key Insights
 
 - **'Music'** was the strongest category overall, ranking first in total views, likes and average engagement rate.
-- **'Entertainment'** was the second-strongest category, but it's average engagement rate was lower than Music, Gaming, People & Blogs and Comedy.
+- **'Entertainment'** was the second-strongest category, but its average engagement rate was lower than Music, Gaming, People & Blogs and Comedy.
 - **The United States** had the highest total views, while **Mexico** recorded the highest total likes.
 - **Brazil** had the highest average engagement rate, while **Japan** and **Korea** showed the lowest engagement rates in the top country comparison.
 - Top rankings were concentrated among major creators and entertainment channels.
